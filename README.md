@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/faiz28/Game-Menu-and-setting-unity/blob/master/Screenshot%20from%202020-04-14%2013-27-18.png" height="400" width="400" >
+  <img src="https://github.com/faiz28/Game-Menu-and-setting-unity/blob/master/Screenshot%20from%202020-04-14%2013-27-18.png" >
 </p>
 
 
